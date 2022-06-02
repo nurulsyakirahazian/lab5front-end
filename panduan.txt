@@ -1,0 +1,14 @@
+step before run on phone:
+on xampp
+buka phpadmin
+buka apache
+on server(paste http://192.168.43.117:8080/Lab5front-end/ then keluar index.html  di chrome)
+
+pastu dah boleh run di emulator atau phone
+
+how to run using phone?
+paste 92.168.43.117:8080/Lab5front-end/
+
+ps:IP Address change based on internet used
+
+ps2:kalau paste http://192.168.43.117:8080/Lab5front-end/Register then keluar {} means dah run
